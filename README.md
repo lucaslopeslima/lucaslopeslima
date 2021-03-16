@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaslopeslima
-- 👀 I’m interested in making connections and improve my developer skills. Feel free to give me any tips.
-- 📚 I’m currently learning more about JS, and Git/GitHub.
+- 👀 I’m interested in making connections and improving my developer skills. Feel free to give me any tips.
+- 📚 I’m currently learning more about JS, and Git.
 - 🖥️ I want to collaborate on projects, learn new things and improve myself as a developer.
 - 📫 lucaslima.webdev@gmail.com
 - 
