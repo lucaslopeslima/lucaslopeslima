@@ -3,7 +3,7 @@
 - 📚 I’m currently learning more about JS, and Git.
 - 🖥️ I want to collaborate on projects, learn new things and improve myself as a developer.
 - 📫 lucaslima.webdev@gmail.com
-- 💡 [lucaslopeslima.com.br!](http://lucaslopeslima.com.br)
+- 💡 [lucaslopeslima.com.br](http://lucaslopeslima.com.br)
 
 
 <!---
