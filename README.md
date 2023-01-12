@@ -6,6 +6,10 @@
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopeslima&layout=compact&langs_count=6&theme=gotham"/>
   </a>
 </div>
+<br>
+<div align='center'>
+<a height="140em" href="http://www.github.com/lucaslopeslima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslopeslima&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=false" /></a>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,3 +31,6 @@
   
 
 </div>
+
+
+
