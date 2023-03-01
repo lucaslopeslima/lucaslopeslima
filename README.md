@@ -1,6 +1,9 @@
 <h1 align="center">Fala ai 👋, eu sou o Lucas Lopes Lima</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 <br>
+<div align="center" width="100%">
+  <img src="https://streak-stats.demolab.com?user=lucaslopeslima&theme=dark&hide_border=true&type=png&background=0D1117&ring=118FEB&fire=EB8E22&currStreakNum=EBCB16&sideLabels=0F8EC9&sideNums=61EB0A&stroke=078912&currStreakLabel=EBCB16" />
+</div>
 <br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lucaslopeslima&label=Profile%20views&color=0e75b6&style=flat" alt="lucaslopeslima" /> 
@@ -41,5 +44,8 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaslopeslima&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslopeslima&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=false" />
+  <!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslopeslima&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=false" />
+  -->
+ 
 </div>
