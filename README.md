@@ -1,4 +1,4 @@
-<h1 align="center">Fala ai 👋, eu sou o Lucas Lopes Lima</h1>
+<h1 align="center">Fala ai 👋, eu sou o Lucas</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 <br>
 <div align="center" width="100%">
