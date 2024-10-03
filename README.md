@@ -11,7 +11,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=lucaslopeslima&theme=onedark&no-frame=true&column=7" alt="lucaslopeslima" /></a> 
 </p> -->
 
-- 📚 Estudando **React.JS, TypeScript**
+- 📚 Estudando **React.JS, Next.js e AWS**
 
 - 📐 Todos os meus projetos em: [https://lucaslopeslima.com.br/](https://lucaslopeslima.com.br/)
 
